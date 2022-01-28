@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/azkpro/azkpro/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 - 👋 Hi, I’m @azkpro
 - 👀 I’m interested in technology and gaming
